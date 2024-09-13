@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\bin\Debug\net8.0\FibonacciApp.exe
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\bin\Debug\net8.0\FibonacciApp.deps.json
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\bin\Debug\net8.0\FibonacciApp.runtimeconfig.json
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\bin\Debug\net8.0\FibonacciApp.dll
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\bin\Debug\net8.0\FibonacciApp.pdb
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\obj\Debug\net8.0\FibonacciApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\obj\Debug\net8.0\FibonacciApp.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\obj\Debug\net8.0\FibonacciApp.AssemblyInfo.cs
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\obj\Debug\net8.0\FibonacciApp.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\obj\Debug\net8.0\FibonacciApp.dll
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\obj\Debug\net8.0\refint\FibonacciApp.dll
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\obj\Debug\net8.0\FibonacciApp.pdb
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\obj\Debug\net8.0\FibonacciApp.genruntimeconfig.cache
+C:\Users\lab_services_student\Downloads\FibonacciApp\FibonacciApp\obj\Debug\net8.0\ref\FibonacciApp.dll
